@@ -1,0 +1,17 @@
+{
+  "name": "WOOFi",
+  "slug": "WOOFi",
+  "date": "2021-10-30",
+  "highlight": "Best single sided passive yields and liquidity for BTC.b and seamless cross-chain swaps.",
+  "logo": "/img/woofi.png",
+  "tags": ["DeFi"],
+  "status": "live",
+  "website": "https://fi.woo.org",
+  "twitter": "https://twitter.com/WOOnetwork",
+  "summary": "WOOFi is a decentralized exchange featuring the best single sided passive yields on major assets and most robust cross-chain swaps powered by the highly efficient sPMM bridging the CeFi and DeFi liquidity.",
+  "telegram": "https://t.me/woo_english",
+  "discord": "https://discord.gg/woonetwork",
+  "docs":"https://learn.woo.org/woofi/intro",
+  "github":"https://github.com/woonetwork",
+  "token":"WOO"
+}
